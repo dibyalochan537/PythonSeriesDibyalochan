@@ -1,0 +1,6 @@
+print("This is my first line")
+print("This is my second line")
+print("This is use for print in single line","fhsdfhsfgsdhgsdf")
+print("gdfgdshfgsdf"+"jhdfgdhfsdgfhsdgfdsf")
+print(1,3)
+print(1+2)

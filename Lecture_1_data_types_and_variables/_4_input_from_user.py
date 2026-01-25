@@ -1,0 +1,6 @@
+# name=input("Enter your name : ")
+# print(name)
+first_number=input("Enter first number : ")
+second_number=input("Enter second number : ")
+# print(type(first_number))
+print("Sum of first and second number is : ",(int(first_number)+int(second_number)))
